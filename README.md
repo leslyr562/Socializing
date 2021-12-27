@@ -7,7 +7,8 @@ This application was build for users to io interact with other users. The applic
 
 ## Table of Contents
 * [Installation](#installation)
-* [Usage](#usage)
+* [Technologies](#technologies)
+* [Testing](#testing)
 * [Links](#links)
 * [Authors](#authors)
 
